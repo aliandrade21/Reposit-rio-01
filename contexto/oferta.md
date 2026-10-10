@@ -16,3 +16,11 @@ usar.
 - Escada de produtos (do mais barato ao mais caro)?
   1. Ebook "Mapa da Comunicação" (low ticket, preço em teste)
   2. Curso de comunicação através da música (R$ 997)
+
+## Regra crítica de promessa (não negociável)
+- NÃO prometer "a fala" como resultado. A fala é só um dos sinais possíveis
+  de comunicação — tem criança que não vai chegar a falar, mas vai se
+  comunicar de outras formas (gestos, CAA, etc.).
+- NÃO colocar prazo/tempo na promessa de resultado (nada de "em X semanas").
+- A promessa correta é em cima do desenvolvimento da comunicação da
+  criança, não da fala, e sem compromisso de tempo.

@@ -38,7 +38,8 @@ tarefa até a entrega pronta, usando como método os squads de IA instalados em
 
 ## Regra do setor
 Não prometa resultado financeiro garantido. Garantia e promessa precisam ser
-cumpríveis pelo dono do negócio.
+cumpríveis pelo dono do negócio. Veja também a regra crítica de promessa em
+`contexto/oferta.md` (não prometer "a fala" nem colocar prazo no resultado).
 
 ## Entrega
 - Salve em `entregas/oferta/AAAA-MM-DD-<assunto>.md` e devolva o conteúdo

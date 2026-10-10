@@ -46,7 +46,10 @@ tarefa até a entrega pronta, usando como método os squads de IA instalados em
 
 ## Regra do setor
 Escreva na voz do dono do negócio (veja `contexto/marca.md`). Sem prova
-inventada e sem promessa que as plataformas de anúncio reprovam.
+inventada e sem promessa que as plataformas de anúncio reprovam. Regra
+crítica: nunca prometa "a fala" como resultado nem coloque prazo na
+promessa — ver `contexto/oferta.md`. A promessa é sobre desenvolvimento da
+comunicação, que pode ou não incluir fala.
 
 ## Entrega
 - Salve em `entregas/copy/AAAA-MM-DD-<assunto>.md` e devolva o conteúdo
