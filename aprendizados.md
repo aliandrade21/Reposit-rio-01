@@ -9,3 +9,17 @@ pediu para não repetir.
   comunicação; há crianças que não vão chegar a falar, mas vão se comunicar
   de outras formas. A promessa correta é sobre desenvolvimento da
   comunicação, sem compromisso de tempo. Ver `contexto/oferta.md`.
+
+- 2026-10-10 (pesquisa real do lançamento LS1, `contexto/publico.md` — setor
+  conteudo-storytelling): para este público, os ganchos mais fortes em
+  conteúdo de reconhecimento não são sobre resultado/transformação, são
+  sobre o bloqueio emocional que já trava a mãe/pai ANTES de qualquer
+  tentativa — "medo de estar fazendo errado" e "não saber o que a criança
+  quer/sente, gerando crise". Os dois ganchos usados vieram literalmente
+  desses dois itens da pesquisa (desafio #2 e #3), sem precisar inventar
+  nada, porque a dor já está documentada e é muito específica. Vale manter
+  esse padrão em próximos roteiros: abrir pelo bloqueio real (ABT: "AND" =
+  contexto, "BUT" = o medo/trava), só depois trazer a autoridade técnica do
+  David, e fechar sempre apontando pro ebook "Mapa da Comunicação" como
+  primeiro passo (nunca empurrar o curso de R$ 997 em conteúdo orgânico de
+  topo de funil, dado o ticket alto em relação à renda do público).
