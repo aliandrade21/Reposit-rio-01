@@ -6,9 +6,20 @@ usar.
 - Produtos e seus preços?
   - Curso de comunicação através da música para crianças autistas (com David
     Morais, musicoterapeuta) — R$ 997.
-  - Ebook "Mapa da Comunicação": checklist dos sinais que a criança precisa
-    apresentar, para os pais acompanharem o desenvolvimento dela. Produto
-    low ticket — preço ainda em teste [SEM DADO: preço final].
+  - Ebook "Mapa da Comunicação do Seu Filho": guia de 67 páginas + caderno
+    de impressão (versão em preto e branco para marcar à mão). Não é um
+    checklist simples — tem metodologia própria: 9 faixas etárias (0 a 5
+    anos), 5 áreas da comunicação, pontuação comparativa em 30 dias,
+    diário de acompanhamento de 30 dias, práticas por área, orientação de
+    quando e com qual profissional conversar, FAQ e referências (Ministério
+    da Saúde, Sociedade Brasileira de Pediatria, Fiocruz, ASHA). O guia
+    já deixa explícito que NÃO diagnostica nem confirma autismo ou qualquer
+    condição — é ferramenta de observação e educação parental. Serve
+    qualquer pai/mãe preocupado com a comunicação do filho de 0 a 5 anos,
+    não só famílias com suspeita/diagnóstico de autismo (isso é só o
+    público de origem via o lançamento do David). Produto de entrada
+    (low ticket) — preço ainda em teste [SEM DADO: preço final, ver
+    recomendação em `entregas/oferta/2026-10-10-precificacao-ebook-mapa-comunicacao.md`].
 - Bônus que fazem parte da oferta? [PREENCHER]
 - Garantia oferecida? [PREENCHER]
 - Provas reais que existem (depoimentos e resultados, somente os que o dono
