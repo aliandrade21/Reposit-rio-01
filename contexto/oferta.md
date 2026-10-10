@@ -12,7 +12,14 @@ usar.
 - Bônus que fazem parte da oferta? [PREENCHER]
 - Garantia oferecida? [PREENCHER]
 - Provas reais que existem (depoimentos e resultados, somente os que o dono
-  tem autorização para usar)? [PREENCHER]
+  tem autorização para usar)?
+  - Existem depoimentos de mães que fazem acompanhamento PRESENCIAL com o
+    David Morais (atendimento individual, não o curso).
+  - NÃO existem ainda depoimentos de pais que aplicaram o método do curso
+    (produto online/escalável). Até que existam, é proibido usar os
+    depoimentos presenciais como se fossem prova do curso — são produtos
+    diferentes (atendimento 1:1 vs. curso). Se usados, precisam deixar claro
+    que são do acompanhamento presencial, não do curso.
 - Escada de produtos (do mais barato ao mais caro)?
   1. Ebook "Mapa da Comunicação" (low ticket, preço em teste)
   2. Curso de comunicação através da música (R$ 997)
