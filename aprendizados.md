@@ -23,3 +23,15 @@ pediu para não repetir.
   David, e fechar sempre apontando pro ebook "Mapa da Comunicação" como
   primeiro passo (nunca empurrar o curso de R$ 997 em conteúdo orgânico de
   topo de funil, dado o ticket alto em relação à renda do público).
+
+- 2026-10-10 (dono do negócio, pedido de revisão sobre os roteiros de Reels
+  de David Morais — setor conteudo-storytelling): para essa linha de
+  conteúdo (Reels de reconhecimento), o dono pediu para remover qualquer
+  menção a produto — nem o ebook "Mapa da Comunicação", nem o curso — do
+  CTA final. Revertido o padrão anterior de "fechar sempre apontando pro
+  ebook": agora o bloco final fecha só com reflexão/insight técnico ou
+  convite ao comentário sobre a experiência da família, sem link, sem oferta
+  e sem gesto/texto na tela de produto. Vale checar com o dono, antes de
+  repetir o padrão de CTA de ebook, se isso vale só para este lote de Reels
+  ou para toda a linha de conteúdo orgânico de topo de funil daqui pra
+  frente.
