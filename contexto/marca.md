@@ -15,5 +15,4 @@ usar.
 - Cores da identidade visual? [PREENCHER]
 - Fontes usadas? [PREENCHER]
 - Referências de marca (quem inspira o estilo)? [PREENCHER]
-- Redes onde a marca está presente? [PREENCHER — perguntar explicitamente
-  quais redes (Instagram, YouTube etc.) já têm perfil ativo]
+- Redes onde a marca está presente? Instagram e YouTube.
